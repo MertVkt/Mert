@@ -1,4 +1,4 @@
-       [![MasterHead](https://huuray.com/wp-content/uploads/2024/01/AI-research-tool-comp.jpg)
+[![MasterHead](https://huuray.com/wp-content/uploads/2024/01/AI-research-tool-comp.jpg)
 
 <h1 align="center">Hi 👋, I'm Mert</h1>
 <h3 align="center">A passionate Ai User</h3>
